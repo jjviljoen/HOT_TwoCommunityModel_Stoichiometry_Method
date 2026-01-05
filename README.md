@@ -7,6 +7,12 @@ The majority of HOT data for Station ALOHA used in this study were obtained via 
 
 Each script contains a short description at the start.
 
+## Example Model Fit
+<p align="center">
+  <img src="Figure_Example_ModelFit_HOT_328.jpeg" width="600"><br>
+  <em>Example fit of Two-Layer particulate model to HOT 328.</em>
+</p>
+
 ## Citation
 
 If you use this code, please cite:
