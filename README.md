@@ -17,7 +17,7 @@ Each script contains a short description at the start.
 
 If you use this code, please cite:
 
-Viljoen, J. J. (2025). Code used for the paper: Two‑Layer Vertical Partitioning of Phytoplankton Biomass and Stoichiometry in the North Pacific Subtropical Gyre (Submitted) (Version v1). Zenodo. https://doi.org/10.5281/zenodo.17987561
+Viljoen, J. J. (2025). Code used for the paper: Two‑Layer Vertical Partitioning of Phytoplankton Biomass and Stoichiometry in the North Pacific Subtropical Gyre (Version v1). Zenodo. https://doi.org/10.5281/zenodo.17987561
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17987561.svg)](https://doi.org/10.5281/zenodo.17987561)
 
